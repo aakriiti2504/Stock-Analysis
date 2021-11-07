@@ -94,12 +94,15 @@ On running the stock Analysis it can be noted that the outputs for the years 201
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/23488019/140641775-e295f538-415a-48ff-a67c-5aab27951ad4.PNG)
 
+The first image is the original one and the last image is of the refactored code. We can note that the time taken to get output from original script in the year 2017 is 0.5429688 seconds. The time taken to get output from the refactored code in the year 2017 is 0.1137695 seconds.
+
 - #### Output of Original Script and Refactored Script for Year 2018
 
 ![2018 timer](https://user-images.githubusercontent.com/23488019/140641918-a2625fda-cdf1-48e1-acb2-9214ac7bef1c.PNG)
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/23488019/140641884-a43fce35-aaba-4418-a354-959da0d0103a.PNG)
 
+The first image is the original one and the last image is of the refactored code. We can note that the time taken to get output from original script in the year 2018 is 0.5460205 seconds. The time taken to get output from the refactored code in the year 2018 is 0.1171875 seconds.
 
 # Summary: 
 
@@ -119,4 +122,4 @@ For example we can see that in 2017 original script yielded result in 0.5429688 
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/23488019/140640558-c682484d-45d0-4717-b696-58ab44d070ca.PNG)
 
-The first image is the original one and the last image is of the refactored code.
+The first image is the original one and the last image is of the refactored code. We can note that the time taken to get output from original script in the year 2017 is 0.5429688 seconds. The time taken to get output from the refactored code in the year 2017 is 0.1137695 seconds.
